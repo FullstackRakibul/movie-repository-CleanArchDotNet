@@ -1,0 +1,17 @@
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\bin\Debug\net7.0\CleanMovie.Infrastructure.deps.json
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\bin\Debug\net7.0\CleanMovie.Infrastructure.dll
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\bin\Debug\net7.0\CleanMovie.Infrastructure.pdb
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\bin\Debug\net7.0\CleanMovie.Application.dll
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\bin\Debug\net7.0\CleanMovie.Domain.dll
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\bin\Debug\net7.0\CleanMovie.Application.pdb
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\bin\Debug\net7.0\CleanMovie.Domain.pdb
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.csproj.AssemblyReference.cache
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.AssemblyInfoInputs.cache
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.AssemblyInfo.cs
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.csproj.CoreCompileInputs.cache
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.csproj.CopyComplete
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.dll
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\refint\CleanMovie.Infrastructure.dll
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\CleanMovie.Infrastructure.pdb
+R:\software\code\C#\21 Oct\CleanMovie.Infrastructure\obj\Debug\net7.0\ref\CleanMovie.Infrastructure.dll
